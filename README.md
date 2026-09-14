@@ -4,7 +4,7 @@
 ### **MSc Student in Computer Science & Engineering @ Politecnico di Milano**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/simone-clerico-66289440a/)
+https://www.linkedin.com/in/simone-clerico/)
 [![Email](https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simone.clerico22@gmail.com)
 
 ![](https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity%20%7C%20Big%20Data-blue?style=for-the-badge)
